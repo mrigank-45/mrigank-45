@@ -7,17 +7,17 @@
 
 - 🌱 I’m currently learning **Data Structure and Algorithms**
 
-- 🖋️ Know about my experiences **https://drive.google.com/file/d/1hR8doGMb_pTVkMT2Opk6fdP_T2T_a2IT/view?usp=share_link**
-
 - 🔥 I'm also enhancing myself in the field of **Blockchain**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
 - 🧑 More of me at [https://mrigank-me.netlify.app/](https://mrigank-me.netlify.app/)
 
-- 💬 Ask me about **MERN,Blockchain,DSA**
+- 💬 Ask me about **MERN, Blockchain, DSA**
 
 - 📫 How to reach me **mrigankshukla2015@gmail.com**
+
+- 🖋️ Know about my experiences [https://drive.google.com/file/d/1hR8doGMb_pTVkMT2Opk6fdP_T2T_a2IT/view?usp=share_link](https://drive.google.com/file/d/1hR8doGMb_pTVkMT2Opk6fdP_T2T_a2IT/view?usp=share_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
