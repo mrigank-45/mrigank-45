@@ -13,7 +13,7 @@
 
 - 🧑 More of me at [https://mrigank-me.netlify.app/](https://mrigank-me.netlify.app/)
 
-- 💬 Ask me about **MERN, Blockchain, DSA**
+- 💬 Ask me about **MERN, Blockchain, DSA, GoLang**
 
 - 📫 How to reach me **mrigankshukla2015@gmail.com**
 
