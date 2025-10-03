@@ -13,11 +13,11 @@
 
 - 🧑 More of me at [https://mrigank-me.netlify.app/](https://mrigank-me.netlify.app/)
 
-- 💬 Ask me about **MERN, Blockchain, DSA, GoLang, Java**
+- 💬 Ask me about **Full Stack Development, Blockchain, Web3, Python, GoLang, Java**
 
-- 📫 How to reach me **mrigankshukla2015@gmail.com**
+- 📫 How to reach me **manimrigank@gmail.com**
 
-- 🖋️ Know about my experiences [https://drive.google.com/file/d/1hR8doGMb_pTVkMT2Opk6fdP_T2T_a2IT/view?usp=share_link](https://drive.google.com/file/d/1555YeWxGUL_1JMXjWlHcGqbhoO_KoZfI/view?usp=sharing)
+- 🖋️ Know about my experiences [[https://drive.google.com/file/d/1hR8doGMb_pTVkMT2Opk6fdP_T2T_a2IT/view?usp=share_link](https://drive.google.com/file/d/1555YeWxGUL_1JMXjWlHcGqbhoO_KoZfI/view?usp=sharing)](https://drive.google.com/file/d/10_gvoczYQo28cZ8UPbsPGRiV7Wy5ys5u/view?usp=drive_link).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
